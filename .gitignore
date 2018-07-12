@@ -81,6 +81,7 @@ node_modules__win__*.zip
 # WorkSpace - ROOT
 git_add_commit_push.bat
 git_pull.bat
+git_push.bat
 
 bin_admin/*.*
 bin_custom/*.command
